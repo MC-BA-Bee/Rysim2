@@ -5,7 +5,7 @@ Rysim 2
 
 > 一款四轨下落式音乐节奏游戏 —— 跟随节拍，敲击音符，感受音乐的魅力！
 >
-> !注意:本项目由于pgzero自身特性，无exe可执行程序发布，请关注Rysim2项目https://github.com/MC-BA-bee/Rysim2
+> !注意:本项目由于pgzero自身特性，rys无exe可执行程序发布，Rysim2项目经过更换库，已解决！
 
 
 ## 📝 项目简介
