@@ -59,5 +59,4 @@ Rysim 2
 ## 🔧 前置条件
 
 - pip install pygame
-- pip install pgzero
 - pip install pywin32
